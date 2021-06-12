@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/license/BlueSkyClouds/My-Actions?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/BlueSkyClouds/My-Actions?color=blueviolet">
 </div>
-
+ 
 个人收集并适配Github Actions的各类签到大杂烩
 
 ### 本项目已可以实现自动同步上游更改！[具体点击](#自动同步)
